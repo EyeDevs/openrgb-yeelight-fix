@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\bin\Debug\YeelightRGB.exe.config
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\bin\Debug\YeelightRGB.exe
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\bin\Debug\YeelightRGB.pdb
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.csproj.CopyComplete
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.exe
+C:\Users\Administrator\source\repos\YeelightRGB\YeelightRGB\obj\Debug\YeelightRGB.pdb

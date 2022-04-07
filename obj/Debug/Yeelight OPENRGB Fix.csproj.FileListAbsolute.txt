@@ -1,8 +1,0 @@
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\obj\Debug\Yeelight OPENRGB Fix.csproj.SuggestedBindingRedirects.cache
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\obj\Debug\Yeelight OPENRGB Fix.csproj.CoreCompileInputs.cache
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\bin\Debug\Yeelight OPENRGB Fix.exe.config
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\bin\Debug\Yeelight OPENRGB Fix.exe
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\bin\Debug\Yeelight OPENRGB Fix.pdb
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\obj\Debug\Yeelight OPENRGB Fix.exe
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\obj\Debug\Yeelight OPENRGB Fix.pdb
-C:\Users\Eye\source\repos\Yeelight OPENRGB Fix\Yeelight OPENRGB Fix\obj\Debug\Yeelight OPENRGB Fix.csproj.AssemblyReference.cache
