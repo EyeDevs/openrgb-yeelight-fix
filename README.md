@@ -7,6 +7,6 @@ Turn on ur yeelights
 
 and run this program 
 
-easy
+its that easy
 
 it finds the yeelights ip in ur openrgb config make sure u have them on there with music mode enabled
