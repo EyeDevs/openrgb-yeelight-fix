@@ -11,5 +11,5 @@ its that easy
 
 it finds the yeelights ip in ur openrgb config make sure u have them on there with music mode enabled
 
-currently only for windows working on getting ported to linux
+currently only for windows working on getting ported to linux,
 also a good idea to update openrgb version under bin
